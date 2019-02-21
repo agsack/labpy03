@@ -4,7 +4,7 @@
 ## Program Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5 ###
 
 
-## Algoritmanya ###
+## -- Algoritmanya ###
 
 1. import random memanggil file random.
 2. n = int(input("Masukan nilai N : ")) input variabel n, tipe data integer.
@@ -17,25 +17,23 @@
 9. elif jawab == 'no' break : menghentikan program.
 10. Run program latihan1.
 
-## Flowchart ###
+## - Flowchart ###
 
 flowchart latihan1
 
-![fc0](https://user-images.githubusercontent.com/46734315/53187571-07e39500-3636-11e9-9dae-cd2873be320a.png)
+![fc0](https://user-images.githubusercontent.com/46734315/53190358-f604f080-363b-11e9-98df-11c51b8ff627.png)
 
-## Screenshot ###
+## - Screenshot ###
 screenshot program & syntax latihan1
 
 ![5 
-1](https://user-images.githubusercontent.com/46734315/53187471-cd79f800-3635-11e9-88fe-c46331bb71b3.png)
-
-![5](https://user-images.githubusercontent.com/46734315/53187504-dd91d780-3635-11e9-9d18-555398b76095.png)
-
+1](https://user-images.githubusercontent.com/46734315/53190482-45e3b780-363c-11e9-9f8b-eb440823f1b5.png)
+![5](https://user-images.githubusercontent.com/46734315/53190486-4a0fd500-363c-11e9-8b37-dc536abf1608.png)
 
 ## LATIHAN2 ###
 ## Program Menentukan Bilangan Terbesar ###
 
-## Algoritma ###
+## - Algoritma ###
 
 1. max=0 variable max diisi 0.
 2. while True: looping while dengan syarat True.
@@ -45,25 +43,25 @@ screenshot program & syntax latihan1
 6. print('Bilangan terbesarnya adalah = ',max) print nilai terbesar, variabel max.
 7. Run program latihan2.
 
-## Flowchart ###
+## - Flowchart ###
 
 flowchart latihan2
 
-![fc1](https://user-images.githubusercontent.com/46734315/53188109-4168d000-3637-11e9-8d39-2c39b0e47537.png)
+![fc1](https://user-images.githubusercontent.com/46734315/53190575-7c213700-363c-11e9-9cf6-d5f6eb59185f.png)
 
-Screenshot
+## - Screenshot ###
 
 screenshot hasil & syntax latihan2
 
-![3](https://user-images.githubusercontent.com/46734315/53188184-665d4300-3637-11e9-8d45-6a0221cd25a3.png)
 ![3 - 
-copy](https://user-images.githubusercontent.com/46734315/53188195-6c532400-3637-11e9-82ed-8de1ecedcedf.png)
+copy](https://user-images.githubusercontent.com/46734315/53190669-a5da5e00-363c-11e9-8df0-6e1c0f8590f9.png)
+![3](https://user-images.githubusercontent.com/46734315/53190680-a8d54e80-363c-11e9-9867-75cb3ca5aa7f.png)
 
 
 ## PROGRAM1 ###
 ## Program Sederhana Pengulangan Dengan Menghitung Laba Pengusaha ###
 
-## Algoritma ###
+## - Algoritma ###
 1. x=100000000 modal 100.000.000, variable a.
 2. sum=0 variable untuk menjumlah total laba.
 3. y=0 variable untuk masa bulan.
@@ -75,19 +73,20 @@ copy](https://user-images.githubusercontent.com/46734315/53188195-6c532400-3637-
 9. print('TOTAL LABA YANG DI DAPAT ADALAH :',sum) print total laba.
 10. Run Program1.
 
-## Flowchart ###
+## - Flowchart ###
 
 flowchart program1
 
-![fc2](https://user-images.githubusercontent.com/46734315/53188995-197a6c00-3639-11e9-9d67-19a747921c18.png)
+![fc2](https://user-images.githubusercontent.com/46734315/53190839-08cbf500-363d-11e9-8384-d2b46430c8d6.png)
 
-## Screenshot ###
+## - Screenshot ###
 
 screenshot hasil & syntax program1
 
+![4](https://user-images.githubusercontent.com/46734315/53190790-e9cd6300-363c-11e9-9aa5-1d25e57829de.png)
 ![4 - 
-copy](https://user-images.githubusercontent.com/46734315/53189108-56466300-3639-11e9-8f77-53258d17ab02.png)
-![4](https://user-images.githubusercontent.com/46734315/53189130-6100f800-3639-11e9-8fbe-2570e4787323.png)
+copy](https://user-images.githubusercontent.com/46734315/53190795-ed60ea00-363c-11e9-934f-2cd82662b1fd.png)
+
 
 ## Sekian Dan Terima Kasih ###
 
