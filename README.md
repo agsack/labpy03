@@ -17,34 +17,6 @@
 9. elif jawab == 'no' break : menghentikan program.
 10. Run program latihan1.
 
-
-## Syntax ###
-def perulangan():
-    print(' ')
-    print('====== Bilangan Acak Yang Lebih Kecil Dari 0.5 ======')
-    print(' ')
-    import random
-    n = int(input("Masukan nilai N : "))
-    a = 0
-    for x in range(n):
-        a += 1
-        b = random.uniform(.0,.5)
-        print('Data ke:',a,'==>',b)
-    print('Selesai')
-    print('')
-    jawab = 'yes'
-    hitung = 0
-    while jawab == 'yes':
-        hitung += 1
-        jawab = input('Ingin Mengulang Program Ini? (yes/no) : ')
-        if jawab == 'yes':
-            return perulangan()
-        elif jawab == 'no':
-            break
-    print('Total perulangan : ' + str (hitung))
-    
-perulangan()
-
 ## Flowchart ###
 
 flowchart latihan1
@@ -73,19 +45,6 @@ screenshot program & syntax latihan1
 6. print('Bilangan terbesarnya adalah = ',max) print nilai terbesar, variabel max.
 7. Run program latihan2.
 
-## Syntax ###
-
-print('***** Menentukan Bilangan Terbesar ******')
-max=0
-while True:
-	a=int(input('Masukkan bilangan = '))
-	if max < a:
-		max = a
-	if a==0:
-		break
-print ('Bilangan Terbesarnya Adalah = ',max)
-print ("-----FINISH-----")
-
 ## Flowchart ###
 
 flowchart latihan2
@@ -94,7 +53,7 @@ flowchart latihan2
 
 Screenshot
 
-screenshot program latihan2
+screenshot hasil & syntax latihan2
 
 ![3](https://user-images.githubusercontent.com/46734315/53188184-665d4300-3637-11e9-8d45-6a0221cd25a3.png)
 ![3 - 
@@ -102,10 +61,10 @@ copy](https://user-images.githubusercontent.com/46734315/53188195-6c532400-3637-
 
 
 ## PROGRAM1 ###
-##Program Sederhana Pengulangan Dengan Menghitung Laba Pengusaha ###
+## Program Sederhana Pengulangan Dengan Menghitung Laba Pengusaha ###
 
 ## Algoritma ###
-1. a=100000000 modal 100.000.000, variable a.
+1. x=100000000 modal 100.000.000, variable a.
 2. sum=0 variable untuk menjumlah total laba.
 3. y=0 variable untuk masa bulan.
 4. lb = [int(0), int(0), int(a) * .1, int(a) * .1, int(a) * .5, int(a) * .5, int(a) * .5, int(a) * .2] variable untuk jumlah laba perbulan, dipisahkan dengan koma dan tipe data integer.
@@ -116,21 +75,6 @@ copy](https://user-images.githubusercontent.com/46734315/53188195-6c532400-3637-
 9. print('TOTAL LABA YANG DI DAPAT ADALAH :',sum) print total laba.
 10. Run Program1.
 
-## Syntax ###
-
-x=100000000
-sum=0
-y=0
-lb = [int(0), int(0), int(a) * .1, int(a) * .1, int(a) * .5, int(a) * .5, int(a) * .5, int(a) * .2]
-print('Modal Awal Seorang Pengusaha : ',x)
-for i in lb :
-    sum=sum+i
-    y+=1
-    print('Laba Bulan Ke-', y ,'Sebesar :',i)
-print('TOTAL LABA YANG DIDAPAT ADALAH : ',sum)
-
-print("-----FINISH-----")
-
 ## Flowchart ###
 
 flowchart program1
@@ -139,7 +83,7 @@ flowchart program1
 
 ## Screenshot ###
 
-screenshot program & syntax program1
+screenshot hasil & syntax program1
 
 ![4 - 
 copy](https://user-images.githubusercontent.com/46734315/53189108-56466300-3639-11e9-8f77-53258d17ab02.png)
