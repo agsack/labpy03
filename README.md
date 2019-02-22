@@ -59,7 +59,7 @@ screenshot syntax & hasil program latihan1
 9. ketikan program print("-----FINISH-----")
 
 
-#3 - Hasilnya ###
+## - Hasilnya ###
 ![2](https://user-images.githubusercontent.com/46734315/53229390-a44d7c00-36b6-11e9-9e5f-3138949ad31d.png)
 
 
