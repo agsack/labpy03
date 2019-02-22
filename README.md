@@ -23,6 +23,8 @@ flowchart latihan1
 ## - Screenshot ###
 screenshot syntax & hasil program latihan1
 
+![2 - copy](https://user-images.githubusercontent.com/46734315/53229351-8a139e00-36b6-11e9-808a-5237ab90b64c.png)
+
 1. Ketikan Program print ("Bilangan Acak yang Lebih Kecil Dari 0.5")
 
   =>print ('Bilangan Acak yang Lebih Kecil Dari 0.5') Untuk Menampilkan atau Mencetak kalimat *Bilangan Acak
@@ -56,7 +58,6 @@ screenshot syntax & hasil program latihan1
 
 9. ketikan program print("-----FINISH-----")
 
-![2 - copy](https://user-images.githubusercontent.com/46734315/53229351-8a139e00-36b6-11e9-808a-5237ab90b64c.png)
 
 #3 - Hasilnya ###
 ![2](https://user-images.githubusercontent.com/46734315/53229390-a44d7c00-36b6-11e9-9e5f-3138949ad31d.png)
@@ -85,6 +86,9 @@ flowchart latihan2
 ## - Screenshot ###
 
 screenshot syntax & hasil program latihan2
+
+![3 - 
+copy](https://user-images.githubusercontent.com/46734315/53190669-a5da5e00-363c-11e9-8df0-6e1c0f8590f9.png)
 
 1. Ketikan Program print ('***** Menentukan Bilangan Terbesar *****')
 
@@ -118,8 +122,7 @@ screenshot syntax & hasil program latihan2
 9. Ketikan Program print("Bilangan Tebesarnya Adalah :", max)
 
   =>print("Bilangan Tebesarnya Adalah :", max) Menampilkan *Bilangan Tebesar Adalah : Nilai maxiumnya
-![3 - 
-copy](https://user-images.githubusercontent.com/46734315/53190669-a5da5e00-363c-11e9-8df0-6e1c0f8590f9.png)
+
 
 ## - Hasilnya ###
 ![3](https://user-images.githubusercontent.com/46734315/53190680-a8d54e80-363c-11e9-9867-75cb3ca5aa7f.png)
@@ -150,6 +153,9 @@ flowchart program1
 
 screenshot hasil & syntax program1
 
+![4 - 
+copy](https://user-images.githubusercontent.com/46734315/53190795-ed60ea00-363c-11e9-934f-2cd82662b1fd.png)
+
 1. Ketikan program
 
   => x=100000000 modal 100.000.000, variable x.
@@ -161,7 +167,8 @@ screenshot hasil & syntax program1
 3. ketikan program
 
   => y=0 y= untuk variable masa bulan
-  
+ ![4 - 
+copy](https://user-images.githubusercontent.com/46734315/53190795-ed60ea00-363c-11e9-934f-2cd82662b1fd.png) 
 4. ketikan program lb = [int(0), int(0), int(x) * .1, int(x) * .1, int(x) * .5, int(x) * .5, int(x)* .5, int(x) * .2]
 
   => lb = [int(0), int(0), int(x) * .1, int(x) * .1, int(x) * .5, int(x) * .5, int(x)* .5, int(x) * .2]  Untuk Mendeklarasikan
@@ -190,8 +197,7 @@ screenshot hasil & syntax program1
 10. print('TOTAL LABA YANG DI DAPAT ADALAH :',sum)
 
   => print('TOTAL LABA YANG DI DAPAT ADALAH :',sum) print total laba.
-![4 - 
-copy](https://user-images.githubusercontent.com/46734315/53190795-ed60ea00-363c-11e9-934f-2cd82662b1fd.png)
+
 
 ## - Hasilnya ###
 ![4](https://user-images.githubusercontent.com/46734315/53190790-e9cd6300-363c-11e9-9aa5-1d25e57829de.png)
