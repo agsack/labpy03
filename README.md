@@ -167,8 +167,7 @@ copy](https://user-images.githubusercontent.com/46734315/53190795-ed60ea00-363c-
 3. ketikan program
 
   => y=0 y= untuk variable masa bulan
- ![4 - 
-copy](https://user-images.githubusercontent.com/46734315/53190795-ed60ea00-363c-11e9-934f-2cd82662b1fd.png) 
+
 4. ketikan program lb = [int(0), int(0), int(x) * .1, int(x) * .1, int(x) * .5, int(x) * .5, int(x)* .5, int(x) * .2]
 
   => lb = [int(0), int(0), int(x) * .1, int(x) * .1, int(x) * .5, int(x) * .5, int(x)* .5, int(x) * .2]  Untuk Mendeklarasikan
